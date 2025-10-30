@@ -1,4 +1,5 @@
 # Multi-Modal-and-Multi-Condition-Fault-Diagnosis-of-Rotating-Machinery
+This model provides the complete implementation code for the Structure-Aware Heterogeneous Graph Transformer (SAHGT) framework developed using PyTorch and PyTorch Geometric. The data that support the findings of this study are openly available in DRYAD at http://datadryad.org/stash/share/hWqUclkVU-ynfebkzv8i-3657YDSu34SIlr29lnCiuQ4.
 Environment Configuration Notes, List of Dependencies:
 absl-py==1.4.0
 altgraph==0.17.4
